@@ -8,7 +8,6 @@ URL:		http://www.xs4all.nl/~hanb/software
 License:	GPL
 Group:		System/Configuration/Packaging
 BuildArch:	noarch
-BuildRoot:	%_tmppath/%name-%version-buildroot
 
 %description
 After an update with urpmi rpm makes .rpmnew  copies  of  all  files  it
