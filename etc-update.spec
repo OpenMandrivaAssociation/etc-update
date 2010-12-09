@@ -1,6 +1,6 @@
 Name:		etc-update
 Version: 20020731
-Release: %mkrel 10
+Release: %mkrel 11
 Summary:	Mergemaster for Linux
 Source:		%name-%version.tar.bz2
 Patch:		etc-update-foo.patch.bz2
