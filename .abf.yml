@@ -1,3 +1,3 @@
 sources:
-  "etc-update.1:"	43b58f187bb7fb7a4156adbb8e0eee06ab1e2121
-  "etc-update-20020731.tar.bz2:"	18d6ce73c94fc944b84a5ec52bed201b6c310084
+  "etc-update-20020731.tar.bz2": 18d6ce73c94fc944b84a5ec52bed201b6c310084
+  "etc-update-foo.patch.bz2": 072086c879ee6b2f57a13e9388acb77b8c0fab94
