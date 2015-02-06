@@ -1,6 +1,6 @@
 Name:		etc-update
 Version:	20020731
-Release:	12
+Release:	13
 Summary:	Mergemaster for Linux
 Source0:	%{name}-%{version}.tar.bz2
 Source1:	%{name}.1
