@@ -5,7 +5,7 @@ Summary:	Mergemaster for Linux
 Source0:	%{name}-%{version}.tar.bz2
 Source1:	%{name}.1
 Patch0:		etc-update-foo.patch.bz2
-URL:		http://www.xs4all.nl/~hanb/software
+URL:		https://www.xs4all.nl/~hanb/software
 License:	GPLv2+
 Group:		System/Configuration/Packaging
 BuildArch:	noarch
